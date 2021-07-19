@@ -1,5 +1,5 @@
 ### Hello there!
-I'm Builditluc and the only thing I like (other than coffee) is programming
+I'm Builditluc and I like to program (and Coffee)
 
 
 ![](https://komarev.com/ghpvc/?username=builditluc)
